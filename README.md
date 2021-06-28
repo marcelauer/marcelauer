@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcelauer
 - 👀 I’m interested in Digital Signal Processing, Computer Vision and Radar Applications
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Python and Matlab
 - 📫 How to reach me: https://www.linkedin.com/in/marcel-auer-822581182/
 
 <!---
