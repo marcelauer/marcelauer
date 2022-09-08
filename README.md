@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcelauer
-- 👀 I’m interested in Digital Signal Processing, Computer Vision and Radar Applications
+- 👀 I’m interested in Digital Signal Processing, Computer Vision, Lasers and Radar Applications
 - 📧 You can contact me under [web@marcelauer.de](mailto:web@marcelauer.de)
 - 🔗 LinkedIn: https://www.linkedin.com/in/marcel-auer-822581182/
 
