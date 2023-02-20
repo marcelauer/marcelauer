@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @marcelauer
-- 👀 I’m interested in Digital Signal Processing, Computer Vision, Lasers and Radar Applications
+- 👨‍💻 Development Engineer at OPVengineering
+- 👀 Interested in new concepts for industrial manufacturing involving Optical Measurement Systems, Computer Vision, Radar/Microwave Engineering, Laser Material Processing and 3D Printing
 - 📧 You can contact me under [web@marcelauer.de](mailto:web@marcelauer.de)
-- 🔗 LinkedIn: https://www.linkedin.com/in/marcel-auer-822581182/
+- 🔗 LinkedIn: https://www.linkedin.com/in/marcelauer/
 
 <!---
 marcelauer/marcelauer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
