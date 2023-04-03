@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcelauer
 - 👨‍💻 Development Engineer at OPVengineering
-- 👀 Interested in new concepts for industrial manufacturing involving Optical Measurement Systems, Computer Vision, Radar/Microwave Engineering, Laser Material Processing and 3D Printing
+- 👀 Interested in new concepts for industrial manufacturing and automation involving Optical Measurement Systems, Computer Vision, Radar/Microwave Engineering, Laser Material Processing and 3D Printing
 - 📧 Contact me: [web@marcelauer.de](mailto:web@marcelauer.de)
 - 🔗 LinkedIn: https://www.linkedin.com/in/marcelauer/
 
