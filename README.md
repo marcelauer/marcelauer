@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcel
-- 👨‍💻 Software Engineer at OPVengineering GmbH
-- 👀 Interested in new concepts for industrial manufacturing and automation involving Optical Measurement Systems, Computer Vision, Radar/Microwave Engineering, Laser Material Processing and 3D Printing
+- 👨‍💻 PhD Student at Karlsruhe Institute of Technology (KIT)
+- 👀 Interested in new concepts for secure industrial automation and Industrial Internet of Things (IIoT)
 - 📧 Contact me: [web@marcelauer.de](mailto:web@marcelauer.de)
 - 🔗 LinkedIn: https://www.linkedin.com/in/marcelauer/
 
