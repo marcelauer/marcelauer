@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marcel
 - 👨‍💻 PhD Student at Karlsruhe Institute of Technology (KIT)
 - 👀 Interested in new concepts for secure industrial automation and Industrial Internet of Things (IIoT)
-- 📧 Contact me: [web@marcelauer.de](mailto:web@marcelauer.de)
+- 📧 Contact me: [marcel.auer@kit.edu](mailto:marcel.auer@kit.edu)
 - 🔗 LinkedIn: https://www.linkedin.com/in/marcelauer/
 
 <!---
